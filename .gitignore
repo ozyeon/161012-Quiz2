@@ -1,0 +1,24 @@
+2016.10.12
+
+Quiz2
+
+Problem 2. 3pts
+
+You have multiple Vector2D classes as follows:
+	class VectorInt2D
+{
+	int x_, y_;
+};
+
+class VectorFloat2D
+{
+	float x_, y_;
+};
+
+class VectorDouble2D
+{
+	double x_, y_;
+};
+
+Templatize these classes so that you have your compiler generate them for you.
+You define only one class Vector2D.
